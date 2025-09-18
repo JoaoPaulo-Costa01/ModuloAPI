@@ -17,12 +17,16 @@ O objetivo principal foi solidificar o conhecimento em operações de banco de d
 
 ## ✨ Funcionalidades
 
-O projeto permite gerenciar [entidades, ex: usuários, produtos, tarefas], com as seguintes operações:
+O projeto gerencia Contatos e Usuários, com as seguintes operações:
 
--   ✅ **Create**: Cadastrar um(a) novo(a) [entidade] no banco de dados.
--   ✅ **Read**: Listar todos(as) os(as) [entidades] cadastrados(as) e buscar um(a) por ID.
--   ✅ **Update**: Atualizar as informações de um(a) [entidade] existente.
--   ✅ **Delete**: Remover um(a) [entidade] do banco de dados.
+-   ✅ **CRUD Completo de Contatos**:
+    -   Cadastro de novos contatos.
+    -   Leitura de contatos por ID ou por Nome.
+    -   Atualização dos dados de um contato existente.
+    -   Exclusão de um contato.
+-   ✅ **Utilidades de Usuário**:
+    -   Obter a data e hora atual do servidor.
+    -   Gerar uma mensagem de apresentação.
 
 ---
 
