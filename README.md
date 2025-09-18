@@ -1,4 +1,4 @@
-# [Nome do Projeto - Ex: CRUD de Clientes]
+# [CRUD de Clientes]
 
 ![C#](https://img.shields.io/badge/C%23-11.0-blue.svg)
 ![.NET](https://img.shields.io/badge/.NET-8.0-blueviolet.svg)
