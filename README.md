@@ -1,4 +1,4 @@
-# [CRUD de Clientes]
+# [Projeto CRUD de Contatos com C# e Entity Framework]
 
 ![C#](https://img.shields.io/badge/C%23-11.0-blue.svg)
 ![.NET](https://img.shields.io/badge/.NET-8.0-blueviolet.svg)
